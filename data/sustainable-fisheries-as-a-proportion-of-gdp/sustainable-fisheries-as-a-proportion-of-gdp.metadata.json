@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "title": "Sustainable fisheries as a proportion of gross domestic product",
+    "subtitle": "The value added of sustainable marine capture fisheries as a proportion of [GDP](#dod:gdp).",
+    "citation": "Food and Agriculture Organization of the United Nations",
+    "originalChartUrl": "https://ourworldindata.org/grapher/sustainable-fisheries-as-a-proportion-of-gdp?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Least Developed Countries (LDCs)",
+      "Small Island Developing States (SIDS)"
+    ]
+  },
+  "columns": {
+    "14.7.1 - Sustainable fisheries as a proportion of GDP - EN_SCP_FSHGDP": {
+      "titleShort": "Sustainable fisheries as a proportion of GDP",
+      "titleLong": "Sustainable fisheries as a proportion of GDP",
+      "descriptionShort": "Sustainable fisheries as a proportion of GDP",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2011-2021",
+      "type": "Numeric",
+      "owidVariableId": 1123936,
+      "shortName": "_14_7_1__en_scp_fshgdp",
+      "lastUpdated": "2025-10-29",
+      "nextUpdate": "2027-10-29",
+      "citationShort": "Food and Agriculture Organization of the United Nations – processed by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations – processed by Our World in Data. “Sustainable fisheries as a proportion of GDP” [dataset]. Food and Agriculture Organization of the United Nations, “Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1123936.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-04-01",
+  "activeFilters": {}
+}

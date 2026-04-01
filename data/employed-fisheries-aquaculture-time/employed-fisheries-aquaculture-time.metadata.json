@@ -1,0 +1,40 @@
+{
+  "chart": {
+    "title": "Number of people employed in fisheries and aquaculture",
+    "citation": "Food and Agriculture Organization of the United Nations",
+    "originalChartUrl": "https://ourworldindata.org/grapher/employed-fisheries-aquaculture-time?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Aquaculture (number employed)": {
+      "titleShort": "Fish farmers (aquaculture)",
+      "titleLong": "Fish farmers (aquaculture)",
+      "unit": "people",
+      "timespan": "1995-2018",
+      "type": "Integer",
+      "owidVariableId": 1207853,
+      "shortName": "aquaculture__number_employed",
+      "lastUpdated": "2021-07-30",
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Fish farmers (aquaculture)” [dataset]. Food and Agriculture Organization of the United Nations [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1207853.metadata.json"
+    },
+    "Fisheries (number employed)": {
+      "titleShort": "Fishers",
+      "titleLong": "Fishers",
+      "unit": "people",
+      "timespan": "1995-2018",
+      "type": "Integer",
+      "owidVariableId": 1207855,
+      "shortName": "fisheries__number_employed",
+      "lastUpdated": "2021-07-30",
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Fishers” [dataset]. Food and Agriculture Organization of the United Nations [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1207855.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-04-01",
+  "activeFilters": {}
+}

@@ -1,0 +1,43 @@
+{
+  "chart": {
+    "title": "Seafood production: wild fish catch vs. aquaculture",
+    "subtitle": "Aquaculture means raising fish and other seafood — including molluscs, crustaceans and aquatic plants — in farms. Capture fishery production is how much wild fish is caught, whether for commercial, industrial, recreational, or subsistence use.",
+    "citation": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2026)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/capture-fisheries-vs-aquaculture?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Aquaculture production (metric tons)": {
+      "titleShort": "Aquaculture",
+      "titleLong": "Aquaculture",
+      "unit": "metric tons",
+      "timespan": "1960-2023",
+      "type": "Numeric",
+      "owidVariableId": 1204394,
+      "shortName": "er_fsh_aqua_mt",
+      "lastUpdated": "2026-02-27",
+      "nextUpdate": "2027-02-27",
+      "citationShort": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2026) – processed by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2026) – processed by Our World in Data. “Aquaculture” [dataset]. Food and Agriculture Organization of the United Nations (FAO), via World Bank, “World Development Indicators 125” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1204394.metadata.json"
+    },
+    "Capture fisheries production (metric tons)": {
+      "titleShort": "Capture fisheries",
+      "titleLong": "Capture fisheries",
+      "unit": "metric tons",
+      "timespan": "1960-2023",
+      "type": "Numeric",
+      "owidVariableId": 1204397,
+      "shortName": "er_fsh_capt_mt",
+      "lastUpdated": "2026-02-27",
+      "nextUpdate": "2027-02-27",
+      "citationShort": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2026) – processed by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2026) – processed by Our World in Data. “Capture fisheries” [dataset]. Food and Agriculture Organization of the United Nations (FAO), via World Bank, “World Development Indicators 125” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1204397.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-04-01",
+  "activeFilters": {}
+}
