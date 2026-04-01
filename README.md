@@ -11,4 +11,4 @@ The core decision in this project centers on whether stricter catch limits shoul
 This project adopts a decision-focused and systems-thinking approach to evaluate these competing priorities. By examining the relationships between fishing intensity, fish population dynamics, regulatory intervention, and economic outcomes, the analysis will highlight key feedback loops that influence long-term system behavior. The goal is to provide a structured understanding of how different policy choices align with both economic objectives and sustainability commitments, including those outlined in Sustainable Development Goal 14: Life Below Water. Ultimately, this work aims to support more informed and balanced decision-making in fisheries management.
 
 ## Initial CLD
-![Fisheries CLD](images/Screenshot 2026-04-01 141937.png)
+
